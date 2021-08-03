@@ -1,6 +1,11 @@
 # Modern-in-Java-Study
 YAPP 백엔드 스터디를 이어 자바 개념을 정리하는 공간입니다.
 
+### 1장 자바의 흐름 [🔗](https://github.com/tape22/Modern-in-Java-Study/blob/main/01-java%EC%9D%98%20%ED%9D%90%EB%A6%84.md)
+
+### 2장 동작 파라미터화 [🔗](https://github.com/tape22/Modern-in-Java-Study/blob/main/02-%EB%8F%99%EC%9E%91%20%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%ED%99%94.md)
+
+### 3장 람다
 
 ### 4장 Stream [🔗](https://github.com/tape22/Modern-in-Java-Study/blob/main/04-스트림.md)
 <details>
